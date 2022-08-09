@@ -7,5 +7,5 @@
  * @FilePath: \nuxt-ssr\README.md
 -->
 # ssr
-最基本的  ssr 服务端渲染
-# 此项目需要环境：nodemon、vue、vue-server-renderer、、、、
+一个最基础的入门 ssr 服务端渲染demo
+# 所需依赖：nodemon、vue、vue-server-renderer
